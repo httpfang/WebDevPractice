@@ -1,0 +1,1 @@
+create a form with input fiels and a submit button use js to validate the form and display an error msg if the input is invalid
